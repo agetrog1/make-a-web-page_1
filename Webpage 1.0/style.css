@@ -1,0 +1,48 @@
+/* This is a CSS comment.*/
+
+
+/*
+Comments are only to help PEOPLE read a code file. The
+computer ignores them.
+*/
+
+body {
+	padding: 20px 10px;
+	font-family: Book Antiqua;
+	max-width: 2000px; 
+	margin: 0 auto;
+	font-size: 1.4em
+}
+
+h1 {
+	text-align: center;
+	text-decoration: none;
+	background-color: Purple;
+	color: floralwhite;
+	padding: 1px;
+	font-family: arial;
+	border-radius: 50px;
+}
+
+h1 ul {
+    list-style-type: none;
+}
+
+/* I would like to remove the bullets from my h1 section, 
+but keep them throughout the rest of the website, but I do not know how to do so */
+
+h2 {
+	text-align: center;
+	text-decoration: none;
+	background-color: Blue;
+	color: floralwhite;
+	padding: 1px;
+	font-family: Arial;
+	border-radius: 20px;
+	margin-top: 750px;
+}
+
+h3 {
+	font-weight: bold;
+	color: Blue;
+}
